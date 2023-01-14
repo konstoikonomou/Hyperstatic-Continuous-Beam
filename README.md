@@ -1,5 +1,6 @@
 # Hyperstatic-Continuous-Beam-Solution
-Program that solves a continuous beam, using the method of forces.
+Program that solves a continuous beam (not interrupted by internal supports), using the method of forces. 
+The beam is loaded with a continuous load (q).
 
 INPUT: 
 1) hyperstatic grade of the beam
